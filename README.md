@@ -5,6 +5,5 @@
 * My objective for this Project was to visualize the available data to draw insights from it which are not perceived just by reading through an excel/csv file.
 * Here I have visualized the number of deaths using various plots to gain various insights from the data.
 * From this I can easily state the regions with maximum,mean deaths,year in which max deaths occured and many more.
-* I have used matplotlib and seaborn to visualize the data.
-* tech stack used: python,numpy,pandas,matplotlib,seaborn,html,css.
+
 
