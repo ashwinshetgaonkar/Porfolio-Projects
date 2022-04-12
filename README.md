@@ -42,3 +42,14 @@ understanding the Market demands and Customer behaviour which will intern help m
 [To view on kaggle](https://www.kaggle.com/code/ashwinshetgaonkar/road-deaths-data-visualization-seaborn)
 
 
+# [5.Estimating Mechanical Properties of Steels](https://github.com/ashwinshetgaonkar/Estimate-Mechanical-Properties-of-Steel-compostions)
+* Since currently there are no precise theoretical methods to predict mechanical properties of steels,I have made an attempt to predict the mechanical properties of steels using Maching Learning.
+* The dataset contains compositions by weight percentages of low-alloy steels along with the temperatures at which the steels were tested and the values mechanical properties observed during the tests. 
+* My aim for this Project is to analyse and transform the available data to make it fit to be used for model training and to use this data for building a model that accurately predicts the mechanical properties of steels.
+* I have completed the above task using varing transformation methods and LightGBM for model training,Optuna for hyperparameter tunning.<br>
+[To view web app](https://share.streamlit.io/ashwinshetgaonkar/estimate-mechanical-properties-of-steel-compostions/main/app.py)
+
+
+
+
+
