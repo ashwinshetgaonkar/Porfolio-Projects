@@ -5,9 +5,8 @@
 * In this I have used requests and BeautifulSoup libraries to perform the web scraping.
 * The project involves extracting the names of all topics of quotes and then scraping quotes along with their author name for all topics
   previously scraped.<br>
-  
-|[To view the web app](https://share.streamlit.io/ashwinshetgaonkar/web-quotes-scraper/main/app.py)|
-|:--------------------|
+  [To view the web app](https://share.streamlit.io/ashwinshetgaonkar/web-quotes-scraper/main/app.py)
+
   
 
 
