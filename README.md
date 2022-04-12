@@ -1,23 +1,27 @@
 
-# [1.IPL Batting Analysis 2008-2021](https://github.com/ashwinshetgaonkar/Data-Visualization-Projects/tree/main/IPL%20Batting%20Analysis%202008-2021)
+# [1.IPL Batting Analysis 2008-2021](https://github.com/ashwinshetgaonkar/Data-Visualization-Projects/tree/main/IPL%20Batting%20Analysis%202008-2021)                                      
+ 
 * The Indian Premier League is a professional men's Twenty20 cricket league, contested by ten teams based out of ten Indian cities.The league was founded by the Board of Control for Cricket in India in 2007.
 * The Dataset contains the stats of all the batsman to have played the league from 2008 upto 2021.
 My objective for this Project was to unearth various useful insights from the available data that would help teams owners / people playing fantacy games get information about players that are leading in various batting stats like :
-- Players with max Strike Rate.
-- Players with least balls/boundary.
-- Players with most runs per season and many more.<br>
-
-Around 35 of such criterions are used to visualize the data which will give almost all the key attributes of batting.<br>
-
-
+1. Players with max Strike Rate.
+2. Players with least balls/boundary.
+3. Players with most runs per season and many more.<br>
+* Around 35 of such criterions are used to visualize the data which will give almost all the key attributes of batting.<br>
+[To view on kaggle](https://www.kaggle.com/code/ashwinshetgaonkar/ipl-batting-analysis-2008-2021)
 
 
+# [2.Super Store Analysis](https://github.com/ashwinshetgaonkar/Data-Visualization-Projects/tree/main/Super%20Store%20Analysis)
+* Competition in the retail industry is rising day by day. In a marketplace that’s becoming increasingly digital, retailers are compelled to use advanced analytics to ensure their business survives the competition. Before using analytics to evaluate store performance, 
+it is necessary to identify the objectives behind adopting it. This ensures that the derived intelligence is effectively acted upon.
+* Dataset contains Information related to Sales, Profits and other interesting facts of a Superstore giant.
+* My objective for this Project was to translate the Data into a visual context so that if I was the owner of the Store I will be able to easily
+understanding the Market demands and Customer behaviour which will intern help me in making decision like:
+1. How much discounts to offer and for what products.
+2. When to offer and in which regions to offer.
+3. Make customized policies for customers of various segments and many more.
 
-
-
-
-
-
+[To view on kaggle](https://www.kaggle.com/code/ashwinshetgaonkar/super-store-analysis-data-visual-seaborn)
 
 
 # [3.Road Deaths Analysis](https://github.com/ashwinshetgaonkar/Data-Visualization-Projects/tree/main/Road%20Deaths%20Analysis)
@@ -26,5 +30,6 @@ Around 35 of such criterions are used to visualize the data which will give almo
 * My objective for this Project was to visualize the available data to draw insights from it which are not perceived just by reading through an excel/csv file.
 * Here I have visualized the number of deaths using various plots to gain various insights from the data.
 * From this I can easily state the regions with maximum,mean deaths,year in which max deaths occured and many more.
+[To view on kaggle](https://www.kaggle.com/code/ashwinshetgaonkar/road-deaths-data-visualization-seaborn)
 
 
