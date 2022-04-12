@@ -5,7 +5,8 @@
 * In this I have used requests and BeautifulSoup libraries to perform the web scraping.
 * The project involves extracting the names of all topics of quotes and then scraping quotes along with their author name for all topics
   previously scraped.<br>
-  [To view web app](https://share.streamlit.io/ashwinshetgaonkar/web-quotes-scraper/main/app.py).
+  |[To view web app](https://share.streamlit.io/ashwinshetgaonkar/web-quotes-scraper/main/app.py).|
+  |------------------|
 
 
 
@@ -18,7 +19,8 @@ My objective for this Project was to unearth various useful insights from the av
 2. Players with least balls/boundary.
 3. Players with most runs per season and many more.<br>
 * Around 35 of such criterions are used to visualize the data which will give almost all the key attributes of batting.<br>
-[To view on kaggle](https://www.kaggle.com/code/ashwinshetgaonkar/ipl-batting-analysis-2008-2021)
+  |[To view on kaggle](https://www.kaggle.com/code/ashwinshetgaonkar/ipl-batting-analysis-2008-2021)|
+  |------------------|
 
 
 # [3.Super Store Analysis](https://github.com/ashwinshetgaonkar/Data-Visualization-Projects/tree/main/Super%20Store%20Analysis)
@@ -30,7 +32,8 @@ understanding the Market demands and Customer behaviour which will intern help m
 1. How much discounts to offer and for what products.
 2. When to offer and in which regions to offer.
 3. Make customized policies for customers of various segments and many more.<br>
-[To view on kaggle](https://www.kaggle.com/code/ashwinshetgaonkar/super-store-analysis-data-visual-seaborn)
+   |[To view on kaggle](https://www.kaggle.com/code/ashwinshetgaonkar/super-store-analysis-data-visual-seaborn) |
+   |------------------|
 
 
 # [4.Road Deaths Analysis](https://github.com/ashwinshetgaonkar/Data-Visualization-Projects/tree/main/Road%20Deaths%20Analysis)
@@ -39,7 +42,8 @@ understanding the Market demands and Customer behaviour which will intern help m
 * My objective for this Project was to visualize the available data to draw insights from it which are not perceived just by reading through an excel/csv file.
 * Here I have visualized the number of deaths using various plots to gain various insights from the data.
 * From this I can easily state the regions with maximum,mean deaths,year in which max deaths occured and many more.<br>
-[To view on kaggle](https://www.kaggle.com/code/ashwinshetgaonkar/road-deaths-data-visualization-seaborn)
+  |[To view on kaggle](https://www.kaggle.com/code/ashwinshetgaonkar/road-deaths-data-visualization-seaborn)|
+  |---------------------------|
 
 
 # [5.Estimating Mechanical Properties of Steels](https://github.com/ashwinshetgaonkar/Estimate-Mechanical-Properties-of-Steel-compostions)
@@ -47,9 +51,16 @@ understanding the Market demands and Customer behaviour which will intern help m
 * The dataset contains compositions by weight percentages of low-alloy steels along with the temperatures at which the steels were tested and the values mechanical properties observed during the tests. 
 * My aim for this Project is to analyse and transform the available data to make it fit to be used for model training and to use this data for building a model that accurately predicts the mechanical properties of steels.
 * I have completed the above task using varing transformation methods and LightGBM for model training,Optuna for hyperparameter tunning.<br>
-[To view web app](https://share.streamlit.io/ashwinshetgaonkar/estimate-mechanical-properties-of-steel-compostions/main/app.py)
+  |[To view on kaggle](https://www.kaggle.com/code/ashwinshetgaonkar/mech-prop-lightgbm-optuna)|[To view web app](https://share.streamlit.io/ashwinshetgaonkar/estimate-mechanical-properties-of-steel-compostions/main/app.py)|
+  |-----------------------|-------------------------|
 
-
-
+# [6.Fake News Classifier](https://github.com/ashwinshetgaonkar/Fake-News-Classifier)
+* In today's world which contains a lot of digital data it will be very beneficial to have some kind of an software that will help us in descriminating between Fake and Real News with some given constraints.
+* The dataset contains news instances with title and text along with its labels taken from various sources.
+* My objective for this project was to train and compare the performance of various models on the basis of f1_score and time taken per prediction.
+* Here I have demostrated how increasing the complexity of the model will lead to better performance but will hamper the time taken per prediction.
+* Build an web app using streamlit which uses model trained using a feed forward neutral network.<br>
+  |[To view on kaggle](https://www.kaggle.com/code/ashwinshetgaonkar/fake-news-classifier-nb-bert) | [To view web app](https://share.streamlit.io/ashwinshetgaonkar/fake-news-classifier/main/app.py)|
+  |--------------------|---------------|
 
 
