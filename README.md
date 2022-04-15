@@ -62,6 +62,15 @@ understanding the Market demands and Customer behaviour which will intern help m
 * Here I have demostrated how increasing the complexity of the model will lead to better performance but will hamper the time taken per prediction.
 * Build an web app using streamlit which uses model trained using a feed forward neutral network.<br>
   [To view on kaggle](https://www.kaggle.com/code/ashwinshetgaonkar/fake-news-classifier-nb-bert),[To view the web app](https://share.streamlit.io/ashwinshetgaonkar/fake-news-classifier/main/app.py)
- 
-
+  
+  
+  
+# [7.Vegetable Classifier](https://github.com/ashwinshetgaonkar/Vegetable-Classifier)
+* From vegetable production to delivery, several common steps are done manually like picking, and sorting vegetables.
+* Therefore, it would be a great idea to automate this process in the coming future by using a robot empowering it using Computer Vision.
+* The dataset consists of training/validation/test sets of images of 15 different vegetables.
+* My aim for this Project was to build a classification model that could provide every high accuracy greater than 95%.
+* By using suitable augmentation layer and callbacks functions on pretained model(efficientnetB0), I managed to get an accuracy above 99%.
+* I have further analysed and visualized the performance of the model.
+  [To view on kaggle](https://www.kaggle.com/code/ashwinshetgaonkar/vegetable-clf-transfer-learning-error-analysis)
 
