@@ -71,6 +71,6 @@ understanding the Market demands and Customer behaviour which will intern help m
 * The dataset consists of training/validation/test sets of images of 15 different vegetables.
 * My aim for this Project was to build a classification model that could provide every high accuracy greater than 95%.
 * By using suitable augmentation layer and callbacks functions on pretained model(efficientnetB0), I managed to get an accuracy above 99%.
-* I have further analysed and visualized the performance of the model.
+* I have further analysed and visualized the performance of the model.<br>
   [To view on kaggle](https://www.kaggle.com/code/ashwinshetgaonkar/vegetable-clf-transfer-learning-error-analysis)
 
