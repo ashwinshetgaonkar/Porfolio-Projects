@@ -55,13 +55,13 @@ understanding the Market demands and Customer behaviour which will intern help m
   [To view on kaggle](https://www.kaggle.com/code/ashwinshetgaonkar/mech-prop-lightgbm-optuna),[To view the web app](https://share.streamlit.io/ashwinshetgaonkar/estimate-mechanical-properties-of-steel-compostions/main/app.py)
  
 
-# [6.Fake News Classifier](https://github.com/ashwinshetgaonkar/Fake-News-Classifier)
-* In today's world which contains a lot of digital data it will be very beneficial to have some kind of an software that will help us in descriminating between Fake and Real News with some given constraints.
-* The dataset contains news instances with title and text along with its labels taken from various sources.
+# [6.Movie Rating Sentiment Analysis](https://github.com/ashwinshetgaonkar/Movie-Rating-Sentiment-Analysis)
+* Sentiment analysis, also referred to as opinion mining, is an approach to natural language processing (NLP) that identifies the emotional tone behind a body of text.
+* The dataset contains movie reviews consisting of text along with its labels taken from IMDB.
 * My objective for this project was to train and compare the performance of various models on the basis of f1_score and time taken per prediction.
 * Here I have demostrated how increasing the complexity of the model will lead to better performance but will hamper the time taken per prediction.
 * Build an web app using streamlit which uses model trained using a feed forward neutral network.<br>
-  [To view on kaggle](https://www.kaggle.com/code/ashwinshetgaonkar/fake-news-classifier-nb-bert),[To view the web app](https://share.streamlit.io/ashwinshetgaonkar/fake-news-classifier/main/app.py)
+  [To view on kaggle](https://www.kaggle.com/code/ashwinshetgaonkar/movie-rating-sentiment-analysis),[To view the web app](https://share.streamlit.io/ashwinshetgaonkar/movie-rating-sentiment-analysis/main/app.py)
   
   
   
@@ -74,3 +74,10 @@ understanding the Market demands and Customer behaviour which will intern help m
 * I have further analysed and visualized the performance of the model.<br>
   [To view on kaggle](https://www.kaggle.com/code/ashwinshetgaonkar/vegetable-clf-transfer-learning-error-analysis)
 
+# [8.Fake News Classifier](https://github.com/ashwinshetgaonkar/Fake-News-Classifier)
+* In today's world which contains a lot of digital data it will be very beneficial to have some kind of an software that will help us in descriminating between Fake and Real News with some given constraints.
+* The dataset contains news instances with title and text along with its labels taken from various sources.
+* My objective for this project was to train and compare the performance of various models on the basis of f1_score and time taken per prediction.
+* Here I have demostrated how increasing the complexity of the model will lead to better performance but will hamper the time taken per prediction.
+* Build an web app using streamlit which uses model trained using a feed forward neutral network.<br>
+  [To view on kaggle](https://www.kaggle.com/code/ashwinshetgaonkar/fake-news-classifier-nb-bert),[To view the web app](https://share.streamlit.io/ashwinshetgaonkar/fake-news-classifier/main/app.py)
