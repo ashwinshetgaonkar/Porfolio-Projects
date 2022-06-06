@@ -74,7 +74,11 @@ understanding the Market demands and Customer behaviour which will intern help m
 * I have further analysed and visualized the performance of the model.<br>
   [To view on kaggle](https://www.kaggle.com/code/ashwinshetgaonkar/vegetable-clf-transfer-learning-error-analysis)
 
-# [8.Fake News Classifier](https://github.com/ashwinshetgaonkar/Fake-News-Classifier)
+# [8.Object Detection and Motion Tracking](https://github.com/ashwinshetgaonkar/Object-Detection-and-Motion-Tracking)
+* In this Projects I have Implemented Object Detection on images and Object Detection and Tracking on webcam input.
+* Tech stack used: Python, OpenCv.
+
+# [9.Fake News Classifier](https://github.com/ashwinshetgaonkar/Fake-News-Classifier)
 * In today's world which contains a lot of digital data it will be very beneficial to have some kind of an software that will help us in descriminating between Fake and Real News with some given constraints.
 * The dataset contains news instances with title and text along with its labels taken from various sources.
 * My objective for this project was to train and compare the performance of various models on the basis of f1_score and time taken per prediction.
