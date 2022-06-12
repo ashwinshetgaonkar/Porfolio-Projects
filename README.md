@@ -65,32 +65,36 @@ Since currently there are no precise theoretical methods to predict mechanical p
  
 
 # [5.Movie Rating Sentiment Analysis](https://github.com/ashwinshetgaonkar/Movie-Rating-Sentiment-Analysis)
-* Sentiment analysis, also referred to as opinion mining, is an approach to natural language processing (NLP) that identifies the emotional tone behind a body of text.
-* The dataset contains movie reviews consisting of text along with its labels taken from IMDB.
-* My objective for this project was to train and compare the performance of various models on the basis of f1_score and time taken per prediction.
-* Here I have demostrated how increasing the complexity of the model will lead to better performance but will hamper the time taken per prediction.
-* Build an web app using streamlit which uses model trained using a feed forward neutral network.<br>
+Sentiment analysis, also referred to as opinion mining, is an approach to natural language processing (NLP) that identifies the emotional tone behind a body of text.The dataset contains movie reviews consisting of text along with its labels taken from IMDB.
+* Trained and compared the performance of various models on the basis of `f1_score and time taken per prediction`.
+
+* Demostrated how increasing the complexity of the model will lead to better performance but will hamper the time taken per prediction.
+* The best performing model on the bases of f1-score alone was `fined tunned bert-base-uncased[Hugging Face Transformer]` with score of `0.92`.
+* Deployed a web app using streamlit which uses model trained using a feed forward neutral network which gave an f1-score of 0.89.
+* Tech stack used:`Python,numpy,pandas,sklearn,tensorflow,streamlit,html,css,tranformers.`<br>
   [To view on kaggle](https://www.kaggle.com/code/ashwinshetgaonkar/movie-rating-sentiment-analysis),[To view the web app](https://share.streamlit.io/ashwinshetgaonkar/movie-rating-sentiment-analysis/main/app.py)
   
   
   
 # [6.Vegetable Classifier](https://github.com/ashwinshetgaonkar/Vegetable-Classifier)
-* From vegetable production to delivery, several common steps are done manually like picking, and sorting vegetables.
-* Therefore, it would be a great idea to automate this process in the coming future by using a robot empowering it using Computer Vision.
-* The dataset consists of training/validation/test sets of images of 15 different vegetables.
-* My aim for this Project was to build a classification model that could provide every high accuracy greater than 95%.
-* By using suitable augmentation layer and callbacks functions on pretained model(efficientnetB0), I managed to get an accuracy above 99%.
-* I have further analysed and visualized the performance of the model.<br>
+From vegetable production to delivery, several common steps are done manually like picking, and sorting vegetables.
+Therefore, it would be a great idea to automate this process in the coming future by using a robot empowering it using Computer Vision.
+The dataset consists of training/validation/test sets of images of 15 different vegetables.
+
+* Developed a Multiclass Classification model using pretained model `efficientnetB0` that provides an accuracy greater than `95%` in classfying the 15 vegetable classes.
+* Incorporting suitable `Data Augmentation` layer and `callback functions` I improved the accuracy above `99%`.
+* Visualized the performance on some samples of the test data.<br>
+* Tech stack used:`python, numpy, pandas, tensorflow, html, css, matplotlib, seaborn, pywebio, flask, heroku.`
   [To view on kaggle](https://www.kaggle.com/code/ashwinshetgaonkar/vegetable-clf-transfer-learning-error-analysis)
 
 # [7.Object Detection and Motion Tracking](https://github.com/ashwinshetgaonkar/Object-Detection-and-Motion-Tracking)
 * In this Projects I have Implemented Object Detection on images and Object Detection and Tracking on webcam input.
-* Tech stack used: Python, OpenCv.
+* Tech stack used: `Python, OpenCv`.
 
-# [8.Fake News Classifier](https://github.com/ashwinshetgaonkar/Fake-News-Classifier)
+<!-- # [8.Fake News Classifier](https://github.com/ashwinshetgaonkar/Fake-News-Classifier)
 * In today's world which contains a lot of digital data it will be very beneficial to have some kind of an software that will help us in descriminating between Fake and Real News with some given constraints.
 * The dataset contains news instances with title and text along with its labels taken from various sources.
 * My objective for this project was to train and compare the performance of various models on the basis of f1_score and time taken per prediction.
 * Here I have demostrated how increasing the complexity of the model will lead to better performance but will hamper the time taken per prediction.
 * Build an web app using streamlit which uses model trained using a feed forward neutral network.<br>
-  [To view on kaggle](https://www.kaggle.com/code/ashwinshetgaonkar/fake-news-classifier-nb-bert),[To view the web app](https://share.streamlit.io/ashwinshetgaonkar/fake-news-classifier/main/app.py)
+  [To view on kaggle](https://www.kaggle.com/code/ashwinshetgaonkar/fake-news-classifier-nb-bert),[To view the web app](https://share.streamlit.io/ashwinshetgaonkar/fake-news-classifier/main/app.py) -->
