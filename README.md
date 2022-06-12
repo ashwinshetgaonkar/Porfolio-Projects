@@ -16,8 +16,8 @@ Web scraping or web data extraction is used for extracting data from websites,th
 
 # [2.IPL Batting Analysis 2008-2021](https://github.com/ashwinshetgaonkar/Data-Visualization-Projects/tree/main/IPL%20Batting%20Analysis%202008-2021)                                      
  
-* The Indian Premier League is a professional men's Twenty20 cricket league, contested by ten teams based out of ten Indian cities.The league was founded by the Board of Control for Cricket in India in 2007.
-* The Dataset contains the stats of all the batsman to have played the league from 2008 upto 2021.
+The Indian Premier League is a professional men's Twenty20 cricket league, contested by ten teams based out of ten Indian cities.The league was founded by the Board of Control for Cricket in India in 2007.The Dataset contains the stats of all the batsman to have played the league from 2008 upto 2021.
+
 * Visualized the data after performing various data manipulations using my domain knowledge about Cricket so as to discover various useful insights from the available data that would help team owners / people playing fantacy games get information about players that are leading in various batting stats like :
 1. Players with max Strike Rate.
 2. Players with least balls/boundary.
@@ -29,29 +29,31 @@ Web scraping or web data extraction is used for extracting data from websites,th
 
 
 # [3.Super Store Analysis](https://github.com/ashwinshetgaonkar/Data-Visualization-Projects/tree/main/Super%20Store%20Analysis)
-* Competition in the retail industry is rising day by day. In a marketplace that’s becoming increasingly digital, retailers are compelled to use advanced analytics to ensure their business survives the competition. Before using analytics to evaluate store performance, 
+Competition in the retail industry is rising day by day. In a marketplace that’s becoming increasingly digital, retailers are compelled to use advanced analytics to ensure their business survives the competition. Before using analytics to evaluate store performance, 
 it is necessary to identify the objectives behind adopting it. This ensures that the derived intelligence is effectively acted upon.
-* Dataset contains Information related to Sales, Profits and other interesting facts of a Superstore giant.
-* My objective for this Project was to translate the Data into a visual context so that if I was the owner of the Store I will be able to easily
-understanding the Market demands and Customer behaviour which will intern help me in making decision like:
+Dataset contains Information related to Sales, Profits and other interesting facts of a Superstore giant.
+
+* Visualized the data so that the store owner viewing it can easily understand the Market demands and Customer behaviour which will intern help him in making decision like:
+
 1. How much discounts to offer and for what products.
 2. When to offer and in which regions to offer.
 3. Make customized policies for customers of various segments and many more.<br>
+*  Tech stack used:`Python,pandas,matplotlib,seaborn,numpy,html,css`.<br>
    [To view on kaggle](https://www.kaggle.com/code/ashwinshetgaonkar/super-store-analysis-data-visual-seaborn) 
    
 
 
-# [4.Road Deaths Analysis](https://github.com/ashwinshetgaonkar/Data-Visualization-Projects/tree/main/Road%20Deaths%20Analysis)
+<!-- # [4.Road Deaths Analysis](https://github.com/ashwinshetgaonkar/Data-Visualization-Projects/tree/main/Road%20Deaths%20Analysis)
 * The Dataset contains information of number of deaths in various regions of the World from 1990-2019,along with other data like historical population,region code,Side of driving.
 
 * My objective for this Project was to visualize the available data to draw insights from it which are not perceived just by reading through an excel/csv file.
 * Here I have visualized the number of deaths using various plots to gain various insights from the data.
 * From this I can easily state the regions with maximum,mean deaths,year in which max deaths occured and many more.<br>
-  [To view on kaggle](https://www.kaggle.com/code/ashwinshetgaonkar/road-deaths-data-visualization-seaborn)
+  [To view on kaggle](https://www.kaggle.com/code/ashwinshetgaonkar/road-deaths-data-visualization-seaborn) -->
   
 
 
-# [5.Estimating Mechanical Properties of Steels](https://github.com/ashwinshetgaonkar/Estimate-Mechanical-Properties-of-Steel-compostions)
+# [4.Estimating Mechanical Properties of Steels](https://github.com/ashwinshetgaonkar/Estimate-Mechanical-Properties-of-Steel-compostions)
 * Since currently there are no precise theoretical methods to predict mechanical properties of steels,I have made an attempt to predict the mechanical properties of steels using Maching Learning.
 * The dataset contains compositions by weight percentages of low-alloy steels along with the temperatures at which the steels were tested and the values mechanical properties observed during the tests. 
 * My aim for this Project is to analyse and transform the available data to make it fit to be used for model training and to use this data for building a model that accurately predicts the mechanical properties of steels.
@@ -59,7 +61,7 @@ understanding the Market demands and Customer behaviour which will intern help m
   [To view on kaggle](https://www.kaggle.com/code/ashwinshetgaonkar/mech-prop-lightgbm-optuna),[To view the web app](https://share.streamlit.io/ashwinshetgaonkar/estimate-mechanical-properties-of-steel-compostions/main/app.py)
  
 
-# [6.Movie Rating Sentiment Analysis](https://github.com/ashwinshetgaonkar/Movie-Rating-Sentiment-Analysis)
+# [5.Movie Rating Sentiment Analysis](https://github.com/ashwinshetgaonkar/Movie-Rating-Sentiment-Analysis)
 * Sentiment analysis, also referred to as opinion mining, is an approach to natural language processing (NLP) that identifies the emotional tone behind a body of text.
 * The dataset contains movie reviews consisting of text along with its labels taken from IMDB.
 * My objective for this project was to train and compare the performance of various models on the basis of f1_score and time taken per prediction.
@@ -69,7 +71,7 @@ understanding the Market demands and Customer behaviour which will intern help m
   
   
   
-# [7.Vegetable Classifier](https://github.com/ashwinshetgaonkar/Vegetable-Classifier)
+# [6.Vegetable Classifier](https://github.com/ashwinshetgaonkar/Vegetable-Classifier)
 * From vegetable production to delivery, several common steps are done manually like picking, and sorting vegetables.
 * Therefore, it would be a great idea to automate this process in the coming future by using a robot empowering it using Computer Vision.
 * The dataset consists of training/validation/test sets of images of 15 different vegetables.
@@ -78,11 +80,11 @@ understanding the Market demands and Customer behaviour which will intern help m
 * I have further analysed and visualized the performance of the model.<br>
   [To view on kaggle](https://www.kaggle.com/code/ashwinshetgaonkar/vegetable-clf-transfer-learning-error-analysis)
 
-# [8.Object Detection and Motion Tracking](https://github.com/ashwinshetgaonkar/Object-Detection-and-Motion-Tracking)
+# [7.Object Detection and Motion Tracking](https://github.com/ashwinshetgaonkar/Object-Detection-and-Motion-Tracking)
 * In this Projects I have Implemented Object Detection on images and Object Detection and Tracking on webcam input.
 * Tech stack used: Python, OpenCv.
 
-# [9.Fake News Classifier](https://github.com/ashwinshetgaonkar/Fake-News-Classifier)
+# [8.Fake News Classifier](https://github.com/ashwinshetgaonkar/Fake-News-Classifier)
 * In today's world which contains a lot of digital data it will be very beneficial to have some kind of an software that will help us in descriminating between Fake and Real News with some given constraints.
 * The dataset contains news instances with title and text along with its labels taken from various sources.
 * My objective for this project was to train and compare the performance of various models on the basis of f1_score and time taken per prediction.
