@@ -1,12 +1,13 @@
 
 # [1.Quotes Scraper](https://github.com/ashwinshetgaonkar/Web-Quotes-Scraper)
-* Web scraping or web data extraction is used for extracting data from websites,this involves fetching data and extracting/parsing required info from it. Fetching is the downloading of a page (which a browser does when a user views a page).
+Web scraping or web data extraction is used for extracting data from websites,this involves fetching data and extracting/parsing required info from it. Fetching is the downloading of a page (which a browser does when a user views a page).
+
 * Implemented Web Scraping to extract data from static sites.
 * Used used `requests` and `BeautifulSoup` libraries to perform the web scraping.
 * The project involved extracting the names of all topics of quotes and then scraping quotes along with their author name for all topics
   previously scraped.<br>
 * Deployed the project using streamlit as a Web app.
-* Tech stack used:**Python,requests,BeautifulSoup,pandas,Streamlit.**<br>
+* Tech stack used:`Python,requests,BeautifulSoup,pandas,Streamlit`.<br>
   [To view the web app](https://share.streamlit.io/ashwinshetgaonkar/web-quotes-scraper/main/app.py)
 
   
@@ -17,11 +18,12 @@
  
 * The Indian Premier League is a professional men's Twenty20 cricket league, contested by ten teams based out of ten Indian cities.The league was founded by the Board of Control for Cricket in India in 2007.
 * The Dataset contains the stats of all the batsman to have played the league from 2008 upto 2021.
-My objective for this Project was to unearth various useful insights from the available data that would help teams owners / people playing fantacy games get information about players that are leading in various batting stats like :
+* Visualized the data after performing various data manipulations using my domain knowledge about Cricket so as to discover various useful insights from the available data that would help team owners / people playing fantacy games get information about players that are leading in various batting stats like :
 1. Players with max Strike Rate.
 2. Players with least balls/boundary.
 3. Players with most runs per season and many more.<br>
-* Around 35 of such criterions are used to visualize the data which will give almost all the key attributes of batting.<br>
+* Performed around 35 such queries and visualized the results which will give almost all the key attributes of batting.<br>
+* Tech stack used:`Python,pandas,matplotlib,seaborn,numpy,html,css`.<br>
   [To view on kaggle](https://www.kaggle.com/code/ashwinshetgaonkar/ipl-batting-analysis-2008-2021)
   
 
