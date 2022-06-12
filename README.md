@@ -3,7 +3,7 @@
 Web scraping or web data extraction is used for extracting data from websites,this involves fetching data and extracting/parsing required info from it. Fetching is the downloading of a page (which a browser does when a user views a page).
 
 * Implemented Web Scraping to extract data from static sites.
-* Used used `requests` and `BeautifulSoup` libraries to perform the web scraping.
+* Used `requests` and `BeautifulSoup` libraries to perform the web scraping.
 * The project involved extracting the names of all topics of quotes and then scraping quotes along with their author name for all topics
   previously scraped.<br>
 * Deployed the project using streamlit as a Web app.
@@ -56,7 +56,7 @@ Dataset contains Information related to Sales, Profits and other interesting fac
 # [4.Estimating Mechanical Properties of Steels](https://github.com/ashwinshetgaonkar/Estimate-Mechanical-Properties-of-Steel-compostions)
 Since currently there are no precise theoretical methods to predict mechanical properties of steels,I have made an attempt to predict the mechanical properties of steels using Maching Learning.The dataset contains compositions by weight percentages of low-alloy steels along with the temperatures at which the steels were tested and the values mechanical properties observed during the tests. 
 
-* Developed a Regression model to predict the mechanical properties of steels after given its compostion as input.
+* Developed a Regression model to predict the mechanical properties of steels after giving its composition as an input.
 * Visualized the data and performed various `Data Transformations` to bring the data into a suitable form for efficient modeling.
 * Tuned LightGBM model using Optuna framework to get `rmse of 24.23,21.54,2.78,4.32 for the four outputs`.
 * Deployed the model using `Streamlit` as a web app.
@@ -88,7 +88,7 @@ The dataset consists of training/validation/test sets of images of 15 different 
   [To view on kaggle](https://www.kaggle.com/code/ashwinshetgaonkar/vegetable-clf-transfer-learning-error-analysis)
 
 # [7.Object Detection and Motion Tracking](https://github.com/ashwinshetgaonkar/Object-Detection-and-Motion-Tracking)
-* In this Projects I have Implemented Object Detection on images and Object Detection and Tracking on webcam input.
+* Implemented Object Detection on images and Object Detection and Tracking on webcam input.
 * Tech stack used: `Python, OpenCv`.
 
 <!-- # [8.Fake News Classifier](https://github.com/ashwinshetgaonkar/Fake-News-Classifier)
