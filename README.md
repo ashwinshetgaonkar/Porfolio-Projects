@@ -54,10 +54,13 @@ Dataset contains Information related to Sales, Profits and other interesting fac
 
 
 # [4.Estimating Mechanical Properties of Steels](https://github.com/ashwinshetgaonkar/Estimate-Mechanical-Properties-of-Steel-compostions)
-* Since currently there are no precise theoretical methods to predict mechanical properties of steels,I have made an attempt to predict the mechanical properties of steels using Maching Learning.
-* The dataset contains compositions by weight percentages of low-alloy steels along with the temperatures at which the steels were tested and the values mechanical properties observed during the tests. 
-* My aim for this Project is to analyse and transform the available data to make it fit to be used for model training and to use this data for building a model that accurately predicts the mechanical properties of steels.
-* I have completed the above task using varing transformation methods and LightGBM for model training,Optuna for hyperparameter tunning.<br>
+Since currently there are no precise theoretical methods to predict mechanical properties of steels,I have made an attempt to predict the mechanical properties of steels using Maching Learning.The dataset contains compositions by weight percentages of low-alloy steels along with the temperatures at which the steels were tested and the values mechanical properties observed during the tests. 
+
+* Developed a Regression model to predict the mechanical properties of steels after given its compostion as input.
+* Visualized the data and performed various `Data Transformations` to bring the data into a suitable form for efficient modeling.
+* Tuned LightGBM model using Optuna framework to get `rmse of 24.23,21.54,2.78,4.32 for the four outputs`.
+* Deployed the model using `Streamlit` as a web app.
+* Tech stack used : `Python, numpy, pandas, matplotlib, seaborn, lightgbm, optuna, streamlit, html, sklearn, scipy, joblib.`<br>
   [To view on kaggle](https://www.kaggle.com/code/ashwinshetgaonkar/mech-prop-lightgbm-optuna),[To view the web app](https://share.streamlit.io/ashwinshetgaonkar/estimate-mechanical-properties-of-steel-compostions/main/app.py)
  
 
