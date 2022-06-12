@@ -1,10 +1,12 @@
 
 # [1.Quotes Scraper](https://github.com/ashwinshetgaonkar/Web-Quotes-Scraper)
-* Web scraping or web data extraction is data scraping used for extracting data from websites,this involves fetching data and extracting/parsing required info from it. Fetching is the downloading of a page (which a browser does when a user views a page).
-* My objective for doing this project was to learn and implement web scraping on static sites.
-* In this I have used requests and BeautifulSoup libraries to perform the web scraping.
-* The project involves extracting the names of all topics of quotes and then scraping quotes along with their author name for all topics
+* Web scraping or web data extraction is used for extracting data from websites,this involves fetching data and extracting/parsing required info from it. Fetching is the downloading of a page (which a browser does when a user views a page).
+* Implemented Web Scraping to extract data from static sites.
+* Used used `requests` and `BeautifulSoup` libraries to perform the web scraping.
+* The project involved extracting the names of all topics of quotes and then scraping quotes along with their author name for all topics
   previously scraped.<br>
+* Deployed the project using streamlit as a Web app.
+* Tech stack used:**Python,requests,BeautifulSoup,pandas,Streamlit.**<br>
   [To view the web app](https://share.streamlit.io/ashwinshetgaonkar/web-quotes-scraper/main/app.py)
 
   
